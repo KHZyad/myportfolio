@@ -195,7 +195,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/matriumLogo.webp"),
+      image: require("./assets/images/matriumLogo.png"),
       projectName: "Matrium",
       projectDesc: "MRP software",
       footerLink: [
